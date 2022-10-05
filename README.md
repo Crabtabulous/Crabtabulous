@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Crabtabulous
-- 👀 I’m interested in XML, HTML, CSS, JavaScript, C++
+- 👀 I’m interested in Python, XML, HTML, CSS, JavaScript, C++
 - 🌱 I’m currently learning HTML.
 - 💞️ I’m learning to collaborate.
 - 📫 How to reach me ...
